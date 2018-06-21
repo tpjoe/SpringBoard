@@ -3,9 +3,14 @@ Inspiration:
 
 In an aging society, medicare has becoming inceasingly vital. Unfortunately, with modern US Healthcare programs’ complexity and sophistication, fraud losses in healthcare cost US taxpayers a staggering amount, to quote from the Justice Department,
 
-    “Health care fraud costs the United States tens of billions of dollars each year. Some estimates put the figure close to $100 billion a year. It is a rising threat, with national health care expenditures estimated to exceed $3 trillion in 2014.” - U.S. Department of Justice
+    “Health care fraud costs the United States tens of billions of dollars each year. 
+    Some estimates put the figure close to $100 billion a year. It is a rising threat, 
+    with national health care expenditures estimated to exceed $3 trillion in 2014.” 
+    - U.S. Department of Justice
 
-This project aims to tackle this data using a data-driven approach, particularly we hope to: * Detect patterns of fraud medicare providers. * Build classification models to detect these providers.
+This project aims to tackle this data using a data-driven approach, particularly we hope to: 
+* Detect patterns of fraud medicare providers. 
+* Build classification models to detect these providers.
 
 Solutions to all problems start with gathering data and seeing the big picture through big data analytics lens, here I employed a combination of data including CMS Medicare 2014 Part D data from Google BigQuery , Medicare Exclusion list from the Office of Inspector General, and a geographical dataset.
 Results Summary:
