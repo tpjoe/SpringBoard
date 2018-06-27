@@ -17,12 +17,9 @@ Results Summary:
 
 In summary, we found that fraud providers for medicare related drugs tend to sell more narcotics (4x more times to be exact), with much higher price than typical providers would. Leveraging this knowledge, PCA, and several other techniques to capture the problem’s class imbalance, we built several models to capture fraud providers and achieve AUC of more than 0.98.
 
-Apart from the code in Notebook, you can check out the results and analysis summary at 
+Apart from the code in Notebook, you can check out the results and analysis summary [here](https://plot.ly/~tpjoe33/12/catching-medicare-fraud-providers-from-sale-anomalies/)
 
-https://plot.ly/~tpjoe33/12/catching-medicare-fraud-providers-from-sale-anomalies/
-
-If you would like a more detailed version, including method and statistical analysis, please refer to
-https://tpjoe.gitlab.io/post/2015-02-20-test-markdown/
+If you would like a more detailed version, including method and statistical analysis, please refer to [here]!(https://tpjoe.gitlab.io/post/2015-02-20-test-markdown/).
 
 
 
