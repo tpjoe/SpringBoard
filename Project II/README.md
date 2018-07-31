@@ -12,8 +12,8 @@ Growing up in a family whose business is primarily distribution of agricultural 
 
 ### This project aims to tackle this data using a data-driven approach, particularly we hope to:
 
-●	Identify correlations between satellites images and crop yields. \\
-●	Build a regression models to predict yields from these images using data from year 2010-2015 as a training and yields in 2016 as a test set. \\
+●	Identify correlations between satellites images and crop yields. <br />
+●	Build a regression models to predict yields from these images using data from year 2010-2015 as a training and yields in 2016 as a test set. <br />
 ●	Determine how early can we accurately predict the yields.
 
 ### Data Sources
@@ -27,4 +27,6 @@ Solutions to all problems start with gathering data and seeing the big picture t
 3.	Feature engineering and image processing
 4.	Selection of deep regression models
 
+### Results and Conclusions
 
+We were able to predict the corn yields with only 10% error on average. In most major corn production county (mid west counties), the errors are even lower (<5%). Early prediction using satellite images upto only August can achieve down to 15% error in prediction. This is about 2 months before corn is typically harvested in October, although this could even be later in the year in warmer states. Therefore, this model would allow user to be able to predict corn yields at county level early in the season.
