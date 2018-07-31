@@ -12,8 +12,8 @@ Growing up in a family whose business is primarily distribution of agricultural 
 
 ### This project aims to tackle this data using a data-driven approach, particularly we hope to:
 
-●	Identify correlations between satellites images and crop yields.
-●	Build a regression models to predict yields from these images using data from year 2010-2015 as a training and yields in 2016 as a test set.
+●	Identify correlations between satellites images and crop yields. \\
+●	Build a regression models to predict yields from these images using data from year 2010-2015 as a training and yields in 2016 as a test set. \\
 ●	Determine how early can we accurately predict the yields.
 
 ### Data Sources
