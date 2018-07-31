@@ -3,7 +3,7 @@
 ## To see the code in action, please click into notebooks. There are 3 notebooks for this project
 
 1. API and Preprocessing: contains codes for querying data from Google Earth Engine and all preprocessing steps
-2. train and evaluate: contains codes for selection and optimization of neural network models
+2. Train and Evaluate: contains codes for selection and optimization of neural network models
 3. Model Result Analysis: contains codes for analysis of model performace and other statistics
 
 ## Brief Description of the Project 
