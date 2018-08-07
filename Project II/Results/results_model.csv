@@ -1,0 +1,6 @@
+Model,Mean Absolute Error (Bushel/Acre),Percent Error from Mean
+Custom CNN-LSTM,18.85,12.17%
+Separable CNN-LSTM,24.11,15.57%
+CNN-LSTM [5],16.2,10.46%
+3D-CNN,96.39,62.26%
+CNN-LSTM-3D CNN,36.14,23.34%
